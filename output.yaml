@@ -1,0 +1,100 @@
+---
+random_seed: 123123123
+listings:
+- name: John Smith
+  racers:
+    mushers:
+    - Matt Failor
+    - John Dixon
+    - Jason Mackey
+    - Kristy Berington
+    - Allen Moore
+    - Karin Hendrickson
+    - Wade Marrs
+    - Linwood Fidler
+    rookies:
+    - Ralph Johannessen
+    - Lisbet Norris
+- name: Testman Testopolis
+  racers:
+    mushers:
+    - Newton Marshall
+    - Scott Janssen
+    - Kelly Maixner
+    - Jessie Royer
+    - John Baker
+    - Nicolas Petit
+    - Anna Berington
+    - DeeDee Jonrowe
+    rookies:
+    - Mats Pettersson
+    - Elliot Anderson
+- name: Martha Vineyard
+  racers:
+    mushers:
+    - Michael Williams Jr
+    - Joar Leifseth Ulsom
+    - Ken Anderson
+    - Cindy Gallea
+    - Danny Seavey
+    - Mike Santos
+    - Dallas Seavey
+    - Jim Lanier
+    rookies:
+    - Charley Bejna
+    - Nathan Schroeder
+- name: Johnny Appleseed
+  racers:
+    mushers:
+    - Karen Ramstead
+    - Gus Guenther
+    - Paul Gebhardt
+    - Jeff King
+    - Mike Ellis
+    - Rick Casillo
+    - Martin Buser
+    - Jan Steves
+    rookies:
+    - Monica Zappa
+    - Lev Shvarts
+- name: George Washington
+  racers:
+    mushers:
+    - Jake Berkowitz
+    - Travis Beals
+    - Paige Drobny
+    - Peter Kaiser
+    - Cim Smyth
+    - Dan Kaduce
+    - Aily Zirkle
+    rookies:
+    - Cindy Abbott
+    - Yvonne Dbakk
+- name: Jane Jones
+  racers:
+    mushers:
+    - Ray Redington Jr
+    - Curt Perano
+    - Sonny Lindner
+    - Mitch Seavey
+    - Hans Gatt
+    - Justin Savidis
+    - Aaron Burmeister
+    rookies:
+    - Katherine Keith
+    - Alex Beutow
+    - Tommy Jordbrudal
+- name: Adam Apple
+  racers:
+    mushers:
+    - Robert Sorlie
+    - Michelle Phillips
+    - Ramey Smyth
+    - Robert Bundtzen
+    - Ellen Halverson
+    - Hugh Neff
+    - Richie Diehl
+    rookies:
+    - Marcelle Fressineau
+    - Abbie West
+    - Christian Turner
