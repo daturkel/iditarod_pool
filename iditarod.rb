@@ -1,6 +1,6 @@
 require 'yaml' # enable the ability to parse YAML files
 
-random_seed = 123123123
+random_seed = 1049
 seeded_random = Random.new(random_seed)
 
 mushers = [] # initialize the musher array
