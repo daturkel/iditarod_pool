@@ -15,3 +15,7 @@ The `iditarod.rb` script randomly divvies up the non-rookie mushers to the bette
 It would be pretty easy for me to fake the output and stack the odds however I wanted! That's why I've included the ability for you to audit results if you're so inclined. Line 3 of `iditarod.rb` contains a declaration of the variable `random_seed` which is used to seed the random-number-generator which is then used to shuffle the musher array, rookie array, and better array before the mushers get divvied. When the script is run multiple times for the same random seed, the results are always the same.
 
 On the day of the divvying, we'll randomly choose a seed and I'll update the file here. I will post the real `betters.yaml` file to the Facebook group and you can run the script yourself to ensure that your results match mine. Running the script is simple. Download the `iditarod.rb` file, the `racers.yaml` file, and the `betters.yaml` file (the last one coming from the Facebook group). Ensure that the random seed in `iditarod.rb` is set to the final proper value. Then `cd` to the directory with these files in it in your terminal of choice and run `ruby iditarod.rb`. Then simply open the `output.yaml` file that gets created and compare it to the one I'll publish. You'll find that it's exactly the same.
+
+## Fin.
+
+The pool's over and everything worked great!
